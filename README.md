@@ -62,7 +62,9 @@ a. Counter Strike = gefährlich? Alles nur Glücksspiel?!
 **4. Aller Welt**  
 a. Review zu "Mein Einstieg in die Selbstständigkeit"  
 b. Die wahre Strategie der Musikproduzenten...  
-**5. Referenzen**  
+**5. Wissen**  
+a. YouTube Shorts via DaVinci Resolve: Die Problemzone!  
+**6. Referenzen**  
 a. Quellen  
 b. Bildquellen  
 c. Mitwirkende  
